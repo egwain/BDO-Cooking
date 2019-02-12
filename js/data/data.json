@@ -1,39 +1,39 @@
 {
-  items: [
+  "items": [
     {
-      id: 0,
-      name: "Simple Cron Meal",
-      url: "https://bdocodex.com/us/item/9692/",
-      components: [
-        {id: 1, count: 1},
-        {id: 2, count: 3},
-        {id: 3, count: 3},
-        {id: 4, count: 1}
+      "id": 0,
+      "name": "Simple Cron Meal",
+      "url": "https://bdocodex.com/us/item/9692/",
+      "components": [
+        {"id": 1, "count": 1},
+        {"id": 2, "count": 3},
+        {"id": 3, "count": 3},
+        {"id": 4, "count": 1}
       ]
     },
     {
-      id: 1,
-      name: "Knight Combat Rations",
-      url: "https://bdocodex.com/us/item/9631/",
-      components: []
+      "id": 1,
+      "name": "Knight Combat Rations",
+      "url": "https://bdocodex.com/us/item/9631/",
+      "components": []
     },
     {
-      id: 2,
-      name: "Mediah Meal",
-      url: "https://bdocodex.com/us/item/9607/",
-      components: []
+      "id": 2,
+      "name": "Mediah Meal",
+      "url": "https://bdocodex.com/us/item/9607/",
+      "components": []
     },
     {
-      id: 3,
-      name: "Valencia Meal",
-      url: "https://bdocodex.com/us/item/9609/",
-      components: []
+      "id": 3,
+      "name": "Valencia Meal",
+      "url": "https://bdocodex.com/us/item/9609/",
+      "components": []
     },
     {
-      id: 4,
-      name: "Ancient Cron Spice",
-      url: "https://bdocodex.com/us/item/9019/",
-      components: []
+      "id": 4,
+      "name": "Ancient Cron Spice",
+      "url": "https://bdocodex.com/us/item/9019/",
+      "components": []
     }
   ]
 }
